@@ -1,0 +1,47 @@
+.formulario-registro {
+    width: 20em;
+    background-color: rgb(238, 234, 229);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+
+}
+
+.titulo-formulario {
+    color: orange;
+    margin-top: 12px;
+    margin-bottom: 12px;
+
+}
+
+.label-email {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+
+}
+
+.input-email {
+    width: 22.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px;
+    margin-top: 4px;
+
+}
+
+.button-newsletter {
+    width: 100%;
+    margin-top: 12px;
+    padding: 12px;
+    background-color: orange;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+}
+
+.button-newsletter:hover {
+    background-color: green;
+    transition: 300ms;
+}
